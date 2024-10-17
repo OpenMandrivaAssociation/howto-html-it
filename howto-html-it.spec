@@ -10,7 +10,7 @@ Version:	%DATE
 Release:	14
 Group:		Books/Howtos
 License:	GPLv2
-Url:		http://www.linuxdoc.org/docs.html#howto
+Url:		https://www.linuxdoc.org/docs.html#howto
 Source0:	%{name}.tar
 BuildArch:	noarch
 
